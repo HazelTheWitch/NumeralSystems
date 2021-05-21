@@ -12,3 +12,8 @@ Clone the Github repository then install the folder with pip.
 git clone https://github.com/HazelTheWitch/NumeralSystems.git
 pip install .
 ```
+
+## Links
+[Bug Reporting](https://github.com/HazelTheWitch/NumeralSystems/issues)  
+[Support Me](https://ko-fi.com/hazeltrinity)  
+[Contact Me](mailto:hazeltrinity@protonmail.com)
